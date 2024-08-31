@@ -28,3 +28,7 @@ After that the latest Rust version will be installed, and the code can be run us
  cargo build
  cargo run
  ```
+
+The restuls after running the code are:
+
+ ![alt text](img/eigenvector-centrality.png "Eigenvector Centrality")
