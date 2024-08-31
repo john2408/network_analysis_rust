@@ -233,26 +233,3 @@ fn calculate_eigenvector_centrality(
 
     centrality
 }
-
-// fn main() {
-//     // Example usage of the function
-//     let mut graph = UnGraph::new_undirected();
-    
-//     // Adding nodes
-//     let a = graph.add_node("A");
-//     let b = graph.add_node("B");
-//     let c = graph.add_node("C");
-    
-//     // Adding edges with weights
-//     graph.add_edge(a, b, 1);
-//     graph.add_edge(a, c, 1);
-//     graph.add_edge(b, c, 1);
-    
-//     // Calculate eigenvector centrality
-//     let centrality = calculate_eigenvector_centrality(&graph);
-    
-//     // Print the results
-//     for (node, score) in centrality {
-//         println!("Node {:?}: Centrality = {:.6}", graph[node], score);
-//     }
-// }
