@@ -16,7 +16,7 @@ Prerequisites:
 - Docker Desktop
 - VSCode
 
-In order to run the code, download VsCode and install the Devcontainers extension. Then go to "View", selected "Command Palette", and select:
+In order to run the code, download VsCode and install the Devcontainers extension. Then go to "View", select "Command Palette", and select:
 
  ```bash
  Dev Containers: Reopen in Container ...
