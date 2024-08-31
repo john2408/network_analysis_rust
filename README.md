@@ -1,4 +1,4 @@
-# Movie Dataset Network Analysis
+# Movie Dataset Network Analysis using Rust
 
 Network analysis of the IMDB movie dataset. The "Top 1000 IMDb Movies Dataset" is a comprehensive collection that presents the most celebrated and beloved movies, as rated and ranked by IMDb users. 
 
